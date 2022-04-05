@@ -83,7 +83,7 @@ Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obt
 
 ---
 
-Feito por Giovan Amaral :wave: [Entre em contato comigo!] https://www.linkedin.com/in/giovani-amaral-a2b253225/)
+Feito por Giovani Amaral :wave: [Entre em contato comigo!] https://www.linkedin.com/in/giovani-amaral-a2b253225/)
 :email: carlos.giovaniamaral@outlook.com ) &nbsp;
-GitHub:  &nbsp;
+GitHub: https://github.com/giovaniamaral  &nbsp;
 
